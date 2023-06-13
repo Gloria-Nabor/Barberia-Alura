@@ -22,4 +22,4 @@ Lenguajes:
 
 Cada página es estática, es decir, no presenta funcionalidades, solo se construyó la estructura con HTML5 y se da estilo usando CSS3.
  
-La Barberia Alura, es una Barberia ficticia, el sitio Web se realizó con fines academicos como prácticas dentro la formación Principiante en Programacion de Alura Latam,  para el programa Oracle Next Education.
+La Barberia Alura, es una Barbería ficticia, el sitio Web se realizó con fines academicos como prácticas dentro la formación Principiante en Programacion de Alura Latam,  para el programa Oracle Next Education.
